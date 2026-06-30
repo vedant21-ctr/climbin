@@ -6,10 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=Vedant%20Satbhai&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+Go;Building+Scalable+Applications" />
-
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=vedant21-ctr&style=for-the-badge&color=2563EB"/>
 
 </div>
 
